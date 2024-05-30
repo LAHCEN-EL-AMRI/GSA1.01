@@ -13,7 +13,7 @@ license type: GNU Affero General Public License v3.0
 
 
 # Prerequisites
-A [manual](https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/tree/master/Gamma%20spectra%20analysis/Gamma%20spectra%20analysis/Doc) existed in the Doc folder explains in detail all the options of the graphical interface.
+A [manual](https://github.com/LAHCEN-EL-AMRI/GSA1.01/tree/master/GSA.1.01WithInstall/Doc) existed in the Doc folder explains in detail all the options of the graphical interface.
 
 
 # Installion

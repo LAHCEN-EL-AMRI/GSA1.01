@@ -1,4 +1,4 @@
-# Gamma-spectra-analysis (GSA1.01) second version
+# Gamma-spectra-analysis (GSA1.01) update
 GSA1.01 is the second version of the gamma spectra analysis tool, available at this link: https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/tree/master. retains the same functionalities as the first version, while adding an option to calculate the activity of each nuclide present in the radioactive sample.
 license type: GNU Affero General Public License v3.0
 
